@@ -1,0 +1,29 @@
+Command line:
+   CMP_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  61378
+
+Mon Jun 03 20:06:00 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5151.25 Meg
+
+ Total Signals          : 255
+ Total Nets             : 480
+ Total Signal Drivers   : 102
+ Total Blocks           : 30
+ Total Primitive Blocks : 26
+ Total Processes        : 98
+ Total Traceable Variables  : 348
+ Total Scalar Nets and Variables : 17603
+Total Line Count : 545
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5151.25 Meg
+
+Mon Jun 03 20:06:16 2024
+

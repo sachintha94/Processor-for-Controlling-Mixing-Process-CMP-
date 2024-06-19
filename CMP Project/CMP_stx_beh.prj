@@ -1,0 +1,8 @@
+vhdl isim_temp "REGISTER03.vhd"
+vhdl isim_temp "REGISTER02.vhd"
+vhdl isim_temp "REGISTER01.vhd"
+vhdl isim_temp "PROG_COUN.vhd"
+vhdl isim_temp "INSTR_REG.vhd"
+vhdl isim_temp "CU.vhd"
+vhdl isim_temp "COMPERATOR.vhd"
+vhdl isim_temp "CMP.vhd"

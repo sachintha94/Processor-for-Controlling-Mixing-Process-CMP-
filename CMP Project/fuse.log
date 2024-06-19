@@ -1,0 +1,43 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/CMP_isim_beh.exe -prj C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/CMP_beh.prj work.CMP work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/ipcore_dir/mbram_model.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/REGISTER03.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/REGISTER02.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/REGISTER01.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/PROG_COUN.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/INSTR_REG.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/CU.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/COMPERATOR.vhd" into library work
+Parsing VHDL file "C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/CMP.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module glbl
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="spart...
+Compiling module mbram_model
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package vl_types
+Compiling architecture behavioral of entity cu_fsm [cu_fsm_default]
+Compiling architecture behavioral of entity Register01 [register01_default]
+Compiling architecture behavioral of entity Register02 [register02_default]
+Compiling architecture behavioral of entity Comparator [comparator_default]
+Compiling architecture behavioral of entity Register03 [register03_default]
+Compiling architecture behavioral of entity program_counter [program_counter_default]
+Compiling architecture behavioral of entity Instructio_register [instructio_register_default]
+Compiling architecture behavioral of entity cmp
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 20 VHDL Units
+Compiled 6 Verilog Units
+Built simulation executable C:/Users/Sachintha/Desktop/OUSL/2023/EEX7436 Process design/processer design MP/Final Processer MP/FinalMp/CMP_isim_beh.exe
+Fuse Memory Usage: 38852 KB
+Fuse CPU Usage: 828 ms

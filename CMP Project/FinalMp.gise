@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="FinalMp.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CMP.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="CMP.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="CMP.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CMP_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="CMP_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="CMP_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="CMP_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Comparator.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Comparator.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Comparator.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Comparator_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Comparator_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Instructio_register.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Instructio_register.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Instructio_register.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Instructio_register_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Instructio_register_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register01.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Register01.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Register01.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Register01_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register01_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register02.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Register02.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Register02.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Register02_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register02_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register03.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Register03.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Register03.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Register03_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Register03_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cu_fsm.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="cu_fsm.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="cu_fsm.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="cu_fsm_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cu_fsm_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="program_counter.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="program_counter.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="program_counter.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="program_counter_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="program_counter_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1704113729" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1704113729">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1717425353" xil_pn:in_ck="7114295783915137186" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1717425352">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CMP.vhd"/>
+      <outfile xil_pn:name="COMPERATOR.vhd"/>
+      <outfile xil_pn:name="CU.vhd"/>
+      <outfile xil_pn:name="INSTR_REG.vhd"/>
+      <outfile xil_pn:name="PROG_COUN.vhd"/>
+      <outfile xil_pn:name="REGISTER01.vhd"/>
+      <outfile xil_pn:name="REGISTER02.vhd"/>
+      <outfile xil_pn:name="REGISTER03.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1717425353" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-5113702677782140723" xil_pn:start_ts="1717425353">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1717425353" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-5842977119996937589" xil_pn:start_ts="1717425353">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1704344785" xil_pn:in_ck="6114246044764250438" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="8374283515331675971" xil_pn:start_ts="1704344785">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1717425353" xil_pn:in_ck="7114295783915137186" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1717425353">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="CMP.vhd"/>
+      <outfile xil_pn:name="COMPERATOR.vhd"/>
+      <outfile xil_pn:name="CU.vhd"/>
+      <outfile xil_pn:name="INSTR_REG.vhd"/>
+      <outfile xil_pn:name="PROG_COUN.vhd"/>
+      <outfile xil_pn:name="REGISTER01.vhd"/>
+      <outfile xil_pn:name="REGISTER02.vhd"/>
+      <outfile xil_pn:name="REGISTER03.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1717425358" xil_pn:in_ck="-6808677547055436364" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="4743793875494294051" xil_pn:start_ts="1717425353">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CMP_beh.prj"/>
+      <outfile xil_pn:name="CMP_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1717425358" xil_pn:in_ck="1098668454854886065" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="5398195437335012038" xil_pn:start_ts="1717425358">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="CMP_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:name="TRAN_SubProjectAbstractToPreProxy">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+  </transforms>
+
+</generated_project>
